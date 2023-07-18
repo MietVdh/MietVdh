@@ -9,11 +9,22 @@ Now I'm looking to get my first job in tech, while continuing to improve my skil
 
 ### Most comfortable with
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,nodejs,py)](https://skillicons.dev)
+<br/>
+HTML, CSS, JavaScript, Java, NodeJS, and Python
+<br/>
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github&perline=6)](https://skillicons.dev)
+<br/>
+VS Code, git, GitHub
 ### Familiar with
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,bootstrap,eclipse,androidstudio)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,linux,postman)](https://skillicons.dev)
-### Used a little
-[![My Skills](https://skillicons.dev/icons?i=django,php,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,flask,bootstrap,eclipse,androidstudio)](https://skillicons.dev)
+<br/>
+Express, Flask, Bootstrap, Eclipse, Android Studio
+<br/>
 
-(and COBOL)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,linux,postman)](https://skillicons.dev)
+<br/>
+MySQL, SQLite, Linux, Postman
+### Used a little
+[![My Skills](https://skillicons.dev/icons?i=django,php,react,docker)](https://skillicons.dev)
+<br/>
+Django, PHP, React, Docker (and COBOL)
